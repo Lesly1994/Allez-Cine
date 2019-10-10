@@ -36,4 +36,4 @@ Consignes principales à respecter:
 
 ## Projet terminé
 
-[Projet Allez-Cine](https://lesly1994.github.io/Allez-Cine/)
+Voici un lien vers le projet : [Projet Allez-Cine](https://lesly1994.github.io/Allez-Cine/)
