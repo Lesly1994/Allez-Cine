@@ -32,3 +32,8 @@ Consignes principales à respecter:
 * lorsqu’on clique sur le bouton “plus des films”, afficher les autres films cachés,
 * section "Shop Movie": utiliser les deux petits boutons à droite pour faire défiler les films de gauche à droite et vise-versa,
 * Lorsqu’on clique sur le petit bouton rouge avec la flèche blanche, on monte jusqu’à l'entête du site, le petit bouton disparaît une fois que l'entête apparaît.
+
+
+## Projet terminé
+
+[Projet Allez-Cine](https://lesly1994.github.io/Allez-Cine/)
